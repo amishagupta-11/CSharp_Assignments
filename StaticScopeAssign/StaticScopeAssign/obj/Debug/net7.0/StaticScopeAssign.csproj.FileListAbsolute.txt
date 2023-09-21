@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\bin\Debug\net7.0\StaticScopeAssign.exe
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\bin\Debug\net7.0\StaticScopeAssign.deps.json
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\bin\Debug\net7.0\StaticScopeAssign.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\bin\Debug\net7.0\StaticScopeAssign.dll
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\bin\Debug\net7.0\StaticScopeAssign.pdb
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.dll
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\refint\StaticScopeAssign.dll
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.pdb
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\StaticScopeAssign.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\StaticScopeAssign\StaticScopeAssign\obj\Debug\net7.0\ref\StaticScopeAssign.dll
