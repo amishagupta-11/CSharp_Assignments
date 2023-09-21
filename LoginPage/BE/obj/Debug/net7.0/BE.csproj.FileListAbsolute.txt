@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\BE\bin\Debug\net7.0\BE.deps.json
+C:\Users\Amisha Gupta\source\repos\BE\bin\Debug\net7.0\BE.dll
+C:\Users\Amisha Gupta\source\repos\BE\bin\Debug\net7.0\BE.pdb
+C:\Users\Amisha Gupta\source\repos\BE\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Amisha Gupta\source\repos\BE\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.csproj.CopyComplete
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.dll
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\refint\BE.dll
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\BE.pdb
+C:\Users\Amisha Gupta\source\repos\BE\obj\Debug\net7.0\ref\BE.dll
