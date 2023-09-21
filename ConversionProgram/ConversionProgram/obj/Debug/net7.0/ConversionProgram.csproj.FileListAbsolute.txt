@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\bin\Debug\net7.0\ConversionProgram.exe
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\bin\Debug\net7.0\ConversionProgram.deps.json
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\bin\Debug\net7.0\ConversionProgram.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\bin\Debug\net7.0\ConversionProgram.dll
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\bin\Debug\net7.0\ConversionProgram.pdb
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.dll
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\refint\ConversionProgram.dll
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.pdb
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ConversionProgram.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\ConversionProgram\ConversionProgram\obj\Debug\net7.0\ref\ConversionProgram.dll
