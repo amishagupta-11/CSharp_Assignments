@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\bin\Debug\net7.0\SubstringProgram.exe
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\bin\Debug\net7.0\SubstringProgram.deps.json
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\bin\Debug\net7.0\SubstringProgram.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\bin\Debug\net7.0\SubstringProgram.dll
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\bin\Debug\net7.0\SubstringProgram.pdb
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.dll
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\refint\SubstringProgram.dll
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.pdb
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\SubstringProgram.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\Assignment2\Assignment2\obj\Debug\net7.0\ref\SubstringProgram.dll
