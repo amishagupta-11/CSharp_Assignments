@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\bin\Debug\net7.0\MaxProduct.exe
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\bin\Debug\net7.0\MaxProduct.deps.json
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\bin\Debug\net7.0\MaxProduct.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\bin\Debug\net7.0\MaxProduct.dll
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\bin\Debug\net7.0\MaxProduct.pdb
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.dll
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\refint\MaxProduct.dll
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.pdb
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\MaxProduct.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\MaxProduct\MaxProduct\obj\Debug\net7.0\ref\MaxProduct.dll

@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\bin\Debug\net7.0\SingleTonInstanceCheck.exe
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\bin\Debug\net7.0\SingleTonInstanceCheck.deps.json
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\bin\Debug\net7.0\SingleTonInstanceCheck.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\bin\Debug\net7.0\SingleTonInstanceCheck.dll
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\bin\Debug\net7.0\SingleTonInstanceCheck.pdb
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.dll
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\refint\SingleTonInstanceCheck.dll
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.pdb
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\SingleTonInstanceCheck.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\SingleTonInstanceCheck\SingleTonInstanceCheck\obj\Debug\net7.0\ref\SingleTonInstanceCheck.dll
