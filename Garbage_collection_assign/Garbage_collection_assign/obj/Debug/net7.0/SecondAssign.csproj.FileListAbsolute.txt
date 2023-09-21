@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\bin\Debug\net7.0\SecondAssign.exe
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\bin\Debug\net7.0\SecondAssign.deps.json
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\bin\Debug\net7.0\SecondAssign.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\bin\Debug\net7.0\SecondAssign.dll
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\bin\Debug\net7.0\SecondAssign.pdb
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.dll
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\refint\SecondAssign.dll
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.pdb
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\SecondAssign.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\SecondAssign\SecondAssign\obj\Debug\net7.0\ref\SecondAssign.dll

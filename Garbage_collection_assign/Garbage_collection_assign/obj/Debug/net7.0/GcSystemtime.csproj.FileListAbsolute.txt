@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\bin\Debug\net7.0\GcSystemtime.exe
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\bin\Debug\net7.0\GcSystemtime.deps.json
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\bin\Debug\net7.0\GcSystemtime.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\bin\Debug\net7.0\GcSystemtime.dll
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\bin\Debug\net7.0\GcSystemtime.pdb
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.dll
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\refint\GcSystemtime.dll
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.pdb
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\GcSystemtime.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\Garbage_collection_assign\Garbage_collection_assign\obj\Debug\net7.0\ref\GcSystemtime.dll
