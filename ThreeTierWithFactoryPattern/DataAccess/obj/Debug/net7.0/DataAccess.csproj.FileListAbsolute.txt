@@ -1,0 +1,12 @@
+C:\Users\Amisha Gupta\source\repos\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Amisha Gupta\source\repos\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Amisha Gupta\source\repos\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Amisha Gupta\source\repos\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
