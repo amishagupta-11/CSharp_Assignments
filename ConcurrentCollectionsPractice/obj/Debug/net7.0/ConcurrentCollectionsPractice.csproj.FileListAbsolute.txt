@@ -1,0 +1,15 @@
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\bin\Debug\net7.0\ConcurrentCollectionsPractice.exe
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\bin\Debug\net7.0\ConcurrentCollectionsPractice.deps.json
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\bin\Debug\net7.0\ConcurrentCollectionsPractice.runtimeconfig.json
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\bin\Debug\net7.0\ConcurrentCollectionsPractice.dll
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\bin\Debug\net7.0\ConcurrentCollectionsPractice.pdb
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.csproj.AssemblyReference.cache
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.AssemblyInfo.cs
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.dll
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\refint\ConcurrentCollectionsPractice.dll
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.pdb
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ConcurrentCollectionsPractice.genruntimeconfig.cache
+C:\Users\Amisha Gupta\source\repos\ConcurrentCollectionsPractice\obj\Debug\net7.0\ref\ConcurrentCollectionsPractice.dll

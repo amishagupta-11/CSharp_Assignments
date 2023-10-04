@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierWithFactoryPattern\\PresentationLayer.csproj": {}
+    "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierApplicationAssignment\\PresentationLayer.csproj": {}
   },
   "projects": {
     "C:\\Users\\Amisha Gupta\\source\\repos\\BE\\BusinessLayer.csproj": {
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierWithFactoryPattern\\PresentationLayer.csproj": {
+    "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierApplicationAssignment\\PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierWithFactoryPattern\\PresentationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierApplicationAssignment\\PresentationLayer.csproj",
         "projectName": "PresentationLayer",
-        "projectPath": "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierWithFactoryPattern\\PresentationLayer.csproj",
+        "projectPath": "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierApplicationAssignment\\PresentationLayer.csproj",
         "packagesPath": "C:\\Users\\Amisha Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierWithFactoryPattern\\obj\\",
+        "outputPath": "C:\\Users\\Amisha Gupta\\source\\repos\\ThreeTierApplicationAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amisha Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
