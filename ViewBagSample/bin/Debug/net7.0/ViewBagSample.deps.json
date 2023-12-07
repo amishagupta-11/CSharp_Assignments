@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ViewBagSample/1.0.0": {
+        "runtime": {
+          "ViewBagSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViewBagSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

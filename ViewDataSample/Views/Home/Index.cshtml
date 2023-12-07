@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Movie List";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h1>@ViewData["Header"]</h1>
+
+    <ul>
+        @foreach (var movie in ViewData["Movies"] as IEnumerable<Movies>)
+        {
+            <tr>
+               <th>Movie Id: @movie.MovieId |</th>
+                <th>Movie Name:@movie.MovieName |</th>
+                <th>Actor :@movie.Actor |</th>
+                <th>Actoress: @movie.Actoress</th><br>
+            </tr>
+            
+            
+            
+
+        }
+    </ul>
+</body>
+</html>
